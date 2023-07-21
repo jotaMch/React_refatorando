@@ -74,7 +74,7 @@ class App extends React.Component {
               <Addsection handleButtonClick={this.handleButtonClick} />
 
               <SectionThree handleButtonClick={this.handleButtonClick} />
-              <Final handleButtonClick={this.handleButtonClick} />
+              <Final handleButtonClick={this.handleButtonClick} handleCalculateClick={this.handleCalculateClick}/>
 
             </div>
         </div>

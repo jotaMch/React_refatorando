@@ -1,6 +1,6 @@
 import React from "react";
 
-function final(prop) {
+function Final(prop) {
     return (
         <div>
             <div>
@@ -13,4 +13,4 @@ function final(prop) {
     )
 }
 
-export default final;
+export default Final;
